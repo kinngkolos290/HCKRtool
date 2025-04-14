@@ -1,5 +1,7 @@
 # HCKRtool - The Hacking Toolkit 💥
 
+#supreme destructor +50938025349
+
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/w6wzd9Gv/20200427-222958.jpg)
 ### 💿 Installation 💿
